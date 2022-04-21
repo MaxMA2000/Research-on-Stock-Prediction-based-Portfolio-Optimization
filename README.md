@@ -103,6 +103,6 @@
 ## Acknowledgement
 This research as my final year project has received help and I would like to sincerely thank for their effort:
 - [**Ms. Queenie Lee**](https://fds.hkbu.edu.hk/eng/finance/staff/admin-details.jsp?id=queenieHKB&cv=00069&cid=219&cvurl=) for being my final year proejct supervisor and providing continuous help
-- [**Robert Martin**](https://github.com/robertmartin8) for building [PyPortfolioOpt package](https://github.com/robertmartin8/PyPortfolioOpt) and helping me with installation problems via GitHub
 - [**Maggie Wong**](https://library.hkbu.edu.hk/about-us/contact-information/staff-directory/maggie-wong/) for providing HKBU Library trainings and research workshops
+- [**Robert Martin**](https://github.com/robertmartin8) for building [PyPortfolioOpt package](https://github.com/robertmartin8/PyPortfolioOpt) and helping me with installation problems via GitHub
 
