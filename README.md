@@ -82,9 +82,9 @@
 
 - Stock Prediction
 
-![](./Images/[HK.00700]-[Support Vector Machine (linear)]-[2020-01-09]-[2022-01-01]-[Forward-30-days]-['pe_ratio']-[close].png)
+![](./Images/prediction1.png)
 
-![](./Images/[HK.00002]-[Long Short-Term Memory (LSTM)]-[2012-01-01]-[2022-01-01]-[Forward-30-days]-['turnover_rate', 'volume', 'turnover', 'change_rate']-[close].png)
+![](./Images/prediction2.png)
 
 ![](./Images/prediction-snapshot.png)
 
@@ -92,9 +92,9 @@
 
 - Portfolio Optimization
 
-![](./Images/[All Time Period]-[Hierarchical Risk Parity Optimization]-[LSTM Network]].png)
+![](./Images/portfolio1.png)
 
-![](./Images/[Covid Time Period]-[K-Mean based Mean-Variance Optimization]-[LSTM Network]].png)
+![](./Images/portfolio2.png)
 
 ![](./Images/optimization-snapshot.png)
 
