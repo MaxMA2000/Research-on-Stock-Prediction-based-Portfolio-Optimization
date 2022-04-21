@@ -1,0 +1,29 @@
+time period,performance metrics,mean,median
+all time,linear_regression: score,0.27212868147002683,0.4198744260665268
+all time,decision_tree: score,-1.1960540364349581,-1.1020493820762431
+all time,random_forest: score,-0.74551506005021,-0.5791063845307256
+all time,support_vector_machine_linear: score,0.37540815087799895,0.4650289650965432
+all time,support_vector_machine_poly: score,-3.9810187976137454,-0.7613945342455382
+all time,support_vector_machine_rbf: score,-6.038996148160534,-0.7529595236974009
+all time,lstm: score,0.9456125302598344,0.9546633233619082
+covid time,linear_regression: score,-2.8286937678642827,-1.6528564883550685
+covid time,decision_tree: score,-10.000771703114285,-5.058511369304187
+covid time,random_forest: score,-6.25097002936061,-3.3761027077295465
+covid time,support_vector_machine_linear: score,-3.026539012615276,-1.6878969144796545
+covid time,support_vector_machine_poly: score,-4.589190773679034,-2.005634576408216
+covid time,support_vector_machine_rbf: score,-9.796238394622716,-4.392865369683266
+covid time,lstm: score,0.47042150647723074,0.5989727149134618
+pre covid time,linear_regression: score,0.07604003484886257,0.1669266493451826
+pre covid time,decision_tree: score,-1.9048561794168342,-0.7239412029254146
+pre covid time,random_forest: score,-1.1519153542510396,-0.4909665598971326
+pre covid time,support_vector_machine_linear: score,0.14068889413785923,0.216568758743105
+pre covid time,support_vector_machine_poly: score,-3.156300263890741,-1.4610406781463752
+pre covid time,support_vector_machine_rbf: score,-6.754085919149721,-2.073172124600041
+pre covid time,lstm: score,0.9251829520442653,0.9343732350146025
+pre covid test time,linear_regression: score,-4.733496621580085,-2.527090481177692
+pre covid test time,decision_tree: score,-9.638987090230435,-4.781196291633687
+pre covid test time,random_forest: score,-7.906879306487113,-2.8626572949755933
+pre covid test time,support_vector_machine_linear: score,-4.103128052748817,-1.8864470235234
+pre covid test time,support_vector_machine_poly: score,-4.949788175409125,-1.9845491642216104
+pre covid test time,support_vector_machine_rbf: score,-14.155774620044477,-7.306960802605609
+pre covid test time,lstm: score,0.4741232718635996,0.6025009954867793

@@ -1,0 +1,33 @@
+technical_indicators,score,mean_absolute_error
+[],0.5207763643294897,46.28957229511949
+['pe_ratio'],0.5214201766208446,46.24953990010023
+['turnover_rate'],0.5208641866064267,46.28323410655638
+['volume'],0.5209057033419738,46.28007467455724
+['turnover'],0.5208884401378362,46.28389351412328
+['change_rate'],0.5211903329972387,46.24253992676007
+"['pe_ratio', 'turnover_rate']",0.5214617014405081,46.246009097052124
+"['pe_ratio', 'volume']",0.5215038988136715,46.24231637734288
+"['pe_ratio', 'turnover']",0.5215372702041496,46.239371475617595
+"['pe_ratio', 'change_rate']",0.5218948945404371,46.208025311559574
+"['turnover_rate', 'volume']",0.5288798099127756,45.403146617707364
+"['turnover_rate', 'turnover']",0.5207003586226373,46.301396142150466
+"['turnover_rate', 'change_rate']",0.521260880374574,46.23645479676108
+"['volume', 'turnover']",0.5207499169251321,46.29721183275437
+"['volume', 'change_rate']",0.5212987526016766,46.23312500651917
+"['turnover', 'change_rate']",0.5212703281179638,46.23746182406718
+"['pe_ratio', 'turnover_rate', 'volume']",0.5291557680312674,45.34647413400864
+"['pe_ratio', 'turnover_rate', 'turnover']",0.521381222841238,46.25229322116658
+"['pe_ratio', 'turnover_rate', 'change_rate']",0.5219172696056043,46.20593750193305
+"['pe_ratio', 'volume', 'turnover']",0.521421766239086,46.2490538328176
+"['pe_ratio', 'volume', 'change_rate']",0.5219554876520116,46.20231375158443
+"['pe_ratio', 'turnover', 'change_rate']",0.5219759251023206,46.19975852827786
+"['turnover_rate', 'volume', 'turnover']",0.5337095409385605,44.94832817196757
+"['turnover_rate', 'volume', 'change_rate']",0.5290575379234876,45.388603002161595
+"['turnover_rate', 'turnover', 'change_rate']",0.5210958650449354,46.25207980067154
+"['volume', 'turnover', 'change_rate']",0.5211498905118128,46.24802661968622
+"['pe_ratio', 'turnover_rate', 'volume', 'turnover']",0.5339611012231287,44.967630766832926
+"['pe_ratio', 'turnover_rate', 'volume', 'change_rate']",0.5293670445966464,45.329835081151266
+"['pe_ratio', 'turnover_rate', 'turnover', 'change_rate']",0.5218341182094608,46.21024205890224
+"['pe_ratio', 'volume', 'turnover', 'change_rate']",0.5218791932315592,46.20747403814001
+"['turnover_rate', 'volume', 'turnover', 'change_rate']",0.5340176800519025,44.91163796133372
+"['pe_ratio', 'turnover_rate', 'volume', 'turnover', 'change_rate']",0.5342720889271919,44.93169054289354
