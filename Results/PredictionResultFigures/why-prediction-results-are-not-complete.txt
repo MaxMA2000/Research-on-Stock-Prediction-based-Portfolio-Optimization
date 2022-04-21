@@ -1,3 +1,0 @@
-please note that not all prediction result figures are stored here, as there are too many
-Files and the file-size is too large even after compress. Here are some examples of the results,
-And you can output all new results by going through the Cookbook or Programs
