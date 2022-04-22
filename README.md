@@ -16,7 +16,7 @@
 
 - This Repository includes all the Data Source, Data Cleaning, Stock Prediction Algorithms, Portfolio Optimization Algorithms, Research Steps, Research Results that are needed in this research.
 
-- [**DataSource**](./DataSource): This research collects historical stock data from Hong Kong Stock Market using FUTU OpenD API, including all 64 Hang Seng Index Stocks
+- [**DataSource**](./DataSource): This research collects historical stock data from Hong Kong Stock Market using [FUTU Open API](https://openapi.futunn.com/futu-api-doc/en/), including all 64 Hang Seng Index Stocks
 - [**Research-Cookbook**](./Research-Cookbook): This is the actual practical research implementation step-by-step, from downloading source data, to data cleaning, build up all stock prediction algorithms, portfolio optimization algorithms, and finally conduct data analysis for studying results.
 - [**Research-Program**](./Research-Program): As building up all stock prediction models and portfolio optimization models takes much computing power and memory, it may be hard to run these two process inside the jupyter notebook. The two .py programs inside Research-Program can be used to run through all model-building process and output results.
 - [**Results**](./Results): All the results from overall research process are stored in this Results folder, where you can find all .csv .xlsx and figures result files.
