@@ -25,7 +25,9 @@
 
 ## How to Set Up the Environment?
 
-- You can first download this repository as a `.zip` file or run `git clone https://github.com/MaxMA2000/Research-on-Stock-Prediction-based-Portfolio-Optimization` in a folder where you want to set this repository.
+- You can first download this repository 
+  - as a `.zip` file 
+  - or run `git clone https://github.com/MaxMA2000/Research-on-Stock-Prediction-based-Portfolio-Optimization` in a folder where you want to set this repository.
 
 - It is recommended to use `conda` or `virtual environment` to run the repository, for detailed installation on different operating system, please refer to:
   - [virtualenv Installation](https://virtualenv.pypa.io/en/latest/installation.html)
